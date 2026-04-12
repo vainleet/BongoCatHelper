@@ -1,0 +1,71 @@
+{
+  "xp": 100,
+  "total_messages": 20,
+  "streak": 1,
+  "last_active_date": "2026-04-12",
+  "achievements": [
+    "first_message",
+    "prestige_1"
+  ],
+  "daily_quests": [
+    {
+      "id": "mood_log",
+      "title": "Запись настроения",
+      "desc": "Запиши настроение 1 раз",
+      "target": 1,
+      "type": "mood",
+      "xp": 25,
+      "progress": 0,
+      "done": false
+    },
+    {
+      "id": "checkin",
+      "title": "Дневной check-in",
+      "desc": "Отметься сегодня",
+      "target": 1,
+      "type": "checkin",
+      "xp": 30,
+      "progress": 0,
+      "done": false
+    },
+    {
+      "id": "long_convo",
+      "title": "Глубокий разговор",
+      "desc": "Напиши 10 сообщений подряд",
+      "target": 10,
+      "type": "messages",
+      "xp": 60,
+      "progress": 4,
+      "done": false
+    }
+  ],
+  "quests_date": "2026-04-12",
+  "mood_log": [
+    {
+      "date": "2026-04-02",
+      "mood": 5,
+      "note": "",
+      "ts": "2026-04-02T20:39:49.307254"
+    }
+  ],
+  "mood_days": 1,
+  "checkin_date": "2026-04-02",
+  "session_messages": 4,
+  "selected_skin": 0,
+  "weekly_challenge": {
+    "id": "w_msgs_50",
+    "title": "Разговорчивый 💬",
+    "desc": "Напиши 50 сообщений за неделю",
+    "target": 50,
+    "type": "messages",
+    "xp": 150,
+    "progress": 7,
+    "done": false
+  },
+  "weekly_date": "2026-04-06",
+  "weekly_checkins": 0,
+  "weekly_quests_done": 0,
+  "weekly_deep_talks": 0,
+  "prestige": 1,
+  "prestige_total_xp": 3000360
+}

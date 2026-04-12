@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "ts": "2026-04-12T15:43:06.240754"
+  },
+  {
+    "role": "assistant",
+    "content": "Meow! Hi there! It’s so nice to meet you. How’s your day going so far? 🐾",
+    "ts": "2026-04-12T15:43:16.894914"
+  },
+  {
+    "role": "user",
+    "content": "when WW2 started",
+    "ts": "2026-04-12T15:43:25.558685"
+  },
+  {
+    "role": "assistant",
+    "content": "Meow! That was a very long time ago! World War 2 started in 1939. It was a difficult time for many people, so it’s good to learn about it. 🐾",
+    "ts": "2026-04-12T15:43:31.340985"
+  }
+]

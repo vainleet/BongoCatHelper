@@ -1,0 +1,13 @@
+# Bongo Cat AI — зависимости
+# Установка: pip install -r requirements.txt
+
+requests>=2.28.0    # HTTP запросы к Ollama
+Pillow>=10.0.0      # Скриншоты + экспорт PNG-карточек
+
+# Уведомления Windows:
+plyer>=2.1.0        # Уведомления (рекомендуется)
+# win10toast>=0.9   # Альтернатива для Windows 10
+
+# Опционально:
+# pytesseract>=0.3.10  # OCR (анализ экрана)
+# keyboard>=0.13.5     # Глобальные горячие клавиши

@@ -1,0 +1,65 @@
+{
+  "xp": 10,
+  "total_messages": 2,
+  "streak": 1,
+  "last_active_date": "2026-04-12",
+  "achievements": [
+    "first_message"
+  ],
+  "daily_quests": [
+    {
+      "id": "morning",
+      "title": "Доброе утро!",
+      "desc": "Открой до 10 утра",
+      "target": 1,
+      "type": "morning",
+      "xp": 25,
+      "progress": 0,
+      "done": false
+    },
+    {
+      "id": "mood_3",
+      "title": "Следи за собой",
+      "desc": "Записывай настроение 3 раза",
+      "target": 3,
+      "type": "mood",
+      "xp": 45,
+      "progress": 0,
+      "done": false
+    },
+    {
+      "id": "long_convo",
+      "title": "Глубокий разговор",
+      "desc": "Напиши 10 сообщений подряд",
+      "target": 10,
+      "type": "messages",
+      "xp": 60,
+      "progress": 2,
+      "done": false
+    }
+  ],
+  "quests_date": "2026-04-12",
+  "mood_log": [],
+  "mood_days": 0,
+  "checkin_date": null,
+  "session_messages": 2,
+  "selected_skin": 0,
+  "prestige": 0,
+  "prestige_total_xp": 0,
+  "weekly_challenge": {
+    "id": "w_msgs_50",
+    "title": "Разговорчивый 💬",
+    "desc": "Напиши 50 сообщений за неделю",
+    "target": 50,
+    "type": "messages",
+    "xp": 150,
+    "progress": 2,
+    "done": false
+  },
+  "weekly_date": "2026-04-06",
+  "weekly_progress": 0,
+  "weekly_checkins": 0,
+  "weekly_quests_done": 0,
+  "weekly_deep_talks": 0,
+  "diary": []
+}
