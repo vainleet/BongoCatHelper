@@ -40,7 +40,7 @@ An animated AI companion that lives on your Windows desktop. Talks to you, react
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourname/bongocat-ai.git
+git clone https://github.com/vainleet/bongocat-ai.git
 cd bongocat-ai
 ```
 
